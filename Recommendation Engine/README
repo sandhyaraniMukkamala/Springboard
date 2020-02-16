@@ -1,4 +1,4 @@
-#Recommendation Engine based on Amazon Product Reviews
+##Recommendation Engine based on Amazon Product Reviews
 
 __________________________________________________________________________________________________________________________
 
@@ -10,6 +10,6 @@ I this project, I am trying to build a similar recommendation engine by taking A
 
 Using KNN(K-nearest neighbour) I am designing item based collaborative filtering model to find similar items.
 
-#References - 
+##References - 
 1. https://cseweb.ucsd.edu/~jmcauley/datasets.html
 2. https://www.kaggle.com/general/126224#726673
