@@ -7,9 +7,9 @@ ________________________________________________________________________________
 
 Understand why there are delays between:
 
-Markup : * "posted_time" - time when a loan is posted
-Markup : * "funded_time" - time when a loan is 100% funded by lenders
-Markup : * "disbursed_time" - time when a loan is disbursed by the field agent to the borrower
+- "posted_time" - time when a loan is posted
+- "funded_time" - time when a loan is 100% funded by lenders
+- "disbursed_time" - time when a loan is disbursed by the field agent to the borrower
 
 ### Method: ###
 
