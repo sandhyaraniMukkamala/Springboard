@@ -7,7 +7,7 @@ In this project, I am trying to build a similar recommendation engine by taking 
 
 Using KNN(K-nearest neighbor) I am designing item based collaborative filtering model to find similar items.     
 
-Using Logestic Rgression performing sentimental analysis for the reviews provided.
+Using Logistic Regression performing sentimental analysis for the reviews provided.
 
 ## Dataset - 
 Amazon Review Dataset available at http://jmcauley.ucsd.edu/data/amazon/
