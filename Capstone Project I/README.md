@@ -5,9 +5,7 @@ Internet based shopping is a huge market now. Every one of our needs are only a 
 
 In this project, I am trying to build a similar recommendation engine by taking Amazon Clothes, shoes and jewelry products related dataset into consideration. I am considering ratings and reviews given by users for wide range of products. 
 
-Using KNN(K-nearest neighbor) I am designing item based collaborative filtering model to find similar items.     
-
-Using Logistic Regression performing sentimental analysis for the reviews provided.
+Using KNN(K-nearest neighbor) I am designing item based collaborative filtering model to find similar items.
 
 ## Dataset - 
 Amazon Review Dataset available at http://jmcauley.ucsd.edu/data/amazon/
